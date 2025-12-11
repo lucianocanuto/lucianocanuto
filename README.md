@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou o Luciano Canuto  
+# 👋 Olá! Eu sou o Luciano Canuto 
+
+## Formação Acadêmica
 📱 Desenvolvedor Android | 🎓 Análise e Desenvolvimento de Sistemas
 
 🌎 Inglês: Intermediário
